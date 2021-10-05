@@ -2,6 +2,7 @@
 - 👀 I’m interested in Internet of Things & Security
 - 🌱 I’m currently learning Kubernetes, Google Cloud Platform, Web Development
 - 💞️ I’m looking to collaborate on Hyperledger Labs/Blockchain-Automation-Framework
+- 🎶 I enjoy Lo-fi
 - 📫 Reach me at https://www.linkedin.com/in/kaveri-khaneja-9b94b760/
 
 <!---
